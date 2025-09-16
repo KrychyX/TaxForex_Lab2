@@ -194,9 +194,6 @@
 ![Report Screen](mockups/report-screen.png)
 *Формирование налогового отчета за выбранный период*
 
-### 4.4 Настройки
-![Settings Screen](mockups/settings-screen.png)
-*Настройки валют, округления и периода отчетности*
 
 ---
 
