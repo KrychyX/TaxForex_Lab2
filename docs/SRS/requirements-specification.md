@@ -183,15 +183,15 @@
 ## 4. 🎨 Эскизы интерфейса
 
 ### 4.1 Главный экран - Калькулятор
-![Main Screen](https://via.placeholder.com/800x400/2563eb/ffffff?text=TaxForex+Main+Screen)
+![Main Screen](../mockups/main-screen.png)
 *Интерфейс добавления новой операции с автоматическим расчетом*
 
-### 4.2 История операций  
-![History Screen](https://via.placeholder.com/800x400/2563eb/ffffff?text=TaxForex+History+Screen)
+### 4.2 История операций
+![History Screen](../mockups/history-screen.png)
 *Таблица с историей операций и фильтрами по дате*
 
 ### 4.3 Налоговый отчет
-![Report Screen](https://via.placeholder.com/800x400/2563eb/ffffff?text=TaxForex+Report+Screen)
+![Report Screen](../mockups/report-screen.png)
 *Формирование налогового отчета за выбранный период*
 
 ---
