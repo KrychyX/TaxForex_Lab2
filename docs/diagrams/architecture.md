@@ -1,3 +1,8 @@
+# 🏗️ System Architecture: TaxForex
+
+## 📊 Architecture Overview
+
+```mermaid
 graph TB
     subgraph "👤 Пользователь (ИП)"
         U[Индивидуальный предприниматель]
